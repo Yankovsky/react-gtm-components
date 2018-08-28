@@ -1,6 +1,6 @@
 {
   "name": "react-gtm-components",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "./lib/index.js",
   "repository": "git@github.com:csssr-team/hr.shared.git",
   "author": "yankovskyandrey <YankovskyAndrey>",
