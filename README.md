@@ -41,3 +41,7 @@ const gtmUrlParams = NODE_ENV === 'development' ? {
 	</body>
 </html>
 ```
+
+# Examples/Tests
+
+Check https://github.com/Yankovsky/react-gtm-components/blob/master/soon-to-be-test-folder/index.jsx
