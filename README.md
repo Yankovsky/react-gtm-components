@@ -4,7 +4,7 @@
 
 # Usage
 
-```
+```javascript
 import { GtmScript, GtmNoScript } from 'react-gtm-components'
 
 const gtmId = 'GTM-0000000'
@@ -21,7 +21,7 @@ const gtmId = 'GTM-0000000'
 </html>
 ```
 
-```
+```javascript
 import { GtmScript, GtmNoScript } from 'react-gtm-components'
 
 const gtmId = 'GTM-0000000'
