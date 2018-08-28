@@ -1,0 +1,21 @@
+{
+  "name": "react-gtm-components",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "repository": "git@github.com:csssr-team/hr.shared.git",
+  "author": "yankovskyandrey <YankovskyAndrey>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.2"
+  },
+  "scripts": {
+    "start": "babel-node ./soon-to-be-test-folder/index.js",
+    "prepare": "babel src --out-dir lib"
+  }
+}
+
