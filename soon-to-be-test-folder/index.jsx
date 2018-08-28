@@ -9,7 +9,7 @@ const SampleApp = (
 		<GtmScript gtm-id='GTM-0000'/>
 	</head>
 	<body>
-	<GtmNoScript gtm-id='GTM-0000'/>
+		<GtmNoScript gtm-id='GTM-0000'/>
 	</body>
 	</html>
 )
