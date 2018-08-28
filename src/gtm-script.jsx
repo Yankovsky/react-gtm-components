@@ -1,5 +1,5 @@
 import React from 'react'
-import { string } from 'prop-types'
+import { string, object } from 'prop-types'
 import gtmParts from './gtm-parts'
 
 const GtmScript = ({ gtmId, gtmUrlParams }) => {
@@ -10,7 +10,7 @@ const GtmScript = ({ gtmId, gtmUrlParams }) => {
 
 GtmScript.propTypes = {
 	gtmId: string,
-	gtmUrlParams: string,
+	gtmUrlParams: object,
 }
 
 export default GtmScript
