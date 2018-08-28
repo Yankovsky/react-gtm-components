@@ -19,9 +19,12 @@ const gtmId = 'GTM-0000000'
 		...
 	</body>
 </html>
+```
 
+```
+import { GtmScript, GtmNoScript } from 'react-gtm-components'
 
-
+const gtmId = 'GTM-0000000'
 const gtmUrlParams = NODE_ENV === 'development' ? {
 	gtm_auth: 'my_auth_key',
 	gtm_preview: 'env-123',
